@@ -9,7 +9,7 @@
 ## you can run this command for (unix OS)
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
- <p> or download the weights from this Link for (Windows OS) </p>
+or download the weights from this Link for (Windows OS)
 [YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights)
 
 2. After downloading YOLOv3 weights, put this weights file into models Directory.
