@@ -18,5 +18,3 @@ or download the weights from this Link for (Windows OS)
 ## run this command through your terminal
 python app.py
 ```
-
-
