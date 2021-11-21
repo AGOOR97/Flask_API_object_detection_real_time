@@ -6,7 +6,7 @@
 ### Steps for Running:  :ok_hand: :ok_hand:
 1. First, you should download the YOLOv3 weights
 ``` bash
-## you can run this command for (unix OS)
+## you can run this command on terminal for (unix OS) 
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
 or download the weights from this Link for (Windows OS)
