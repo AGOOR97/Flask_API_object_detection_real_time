@@ -1,5 +1,5 @@
 ## Object Detection in Real-time (Streaming)
-### Using -pretraied- YOLOv3 weights and COCO Dataset containing 80 classes.
+### Using -pretraied- of YOLOv3 weights and COCO Dataset containing 80 classes.
 ### With this Repository you can achieve Object Detection in Real-time through your camera.
 
 
