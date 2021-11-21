@@ -10,10 +10,7 @@
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
 or download the weights from this Link for (Windows OS)
-[YOLOv3 weights]: https://pjreddie.com/media/files/yolov3.weights
-
-[!YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights](YOLOv3 weights)
-
+[YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights)
 ``` bash
 ## run this command through your terminal
 python app.py
