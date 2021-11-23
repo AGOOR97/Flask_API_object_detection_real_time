@@ -12,7 +12,7 @@ python -m venv envName
 ## activate it --> (for windows)
 envName\Scripts\activate.bat
 ## activate it --> (for Linux)
-$ source envName/bin/activate
+source envName/bin/activate
 
 ## install requirements.txt file
 pip install -r requirements.txt
