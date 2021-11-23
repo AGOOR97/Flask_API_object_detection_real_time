@@ -22,8 +22,8 @@ pip install -r requirements.txt
 ## you can run this command on terminal for (unix OS) 
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
-or download the weights from this Link for (Windows OS)
-[YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights)
+or download the weights from [**Here**](https://pjreddie.com/media/files/yolov3.weights) for (Windows OS)
+
 
 3. After downloading YOLOv3 weights, put this weights file into models Directory.
 4. Our App is ready, We can run it now. Open your terminal and go to Repo Path and run the following command. 
