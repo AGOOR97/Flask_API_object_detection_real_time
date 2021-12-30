@@ -25,9 +25,9 @@ wget https://pjreddie.com/media/files/yolov3.weights
 or download the weights from [**Here**](https://pjreddie.com/media/files/yolov3.weights) for (Windows OS)
 
 
-3. After downloading YOLOv3 weights, put this weights file into models Directory.
+3. After downloading YOLOv3 weights, put this weights file into `models` Directory.
 4. Our API is ready now, We can run it. Open your terminal and go to Repo Path and run the following command. 
 ``` bash
-## run this command through your terminal
+## run this command through your terminal 
 python app.py
 ```
