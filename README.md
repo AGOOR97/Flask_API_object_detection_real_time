@@ -15,7 +15,7 @@ envName\Scripts\activate.bat
 source envName/bin/activate
 
 ## install requirements.txt file
-pip install -r requirements.txt
+pip install -r requirements.t
 ```
 2. First, you should download the YOLOv3 weights
 ``` bash
