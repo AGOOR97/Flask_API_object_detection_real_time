@@ -1,6 +1,6 @@
 ## Object Detection in Real-time  :bulb: :bulb:
-### Using -pretraied- of YOLOv3 weights and COCO Dataset containing 80 classes. :books:
-### With this Repository you can achieve Object Detection in Real-time through your camera.  :camera: :camera:
+### Using -pretraied- of YOLOv3 weights trained on COCO Dataset containing 80 classes. :books:
+### With this Repository you can achieve Object Detection in Real-time through your webcam.  :camera: :camera:
 
 
 ### Steps for Running:  :ok_hand: :ok_hand:
