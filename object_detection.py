@@ -57,8 +57,9 @@ class ObjectDetection:
                 label = str(self.CLASSES[class_ids[i]])
                 color = self.COLORS[i]
                 cv2.rectangle(snap, (x, y), (x + w, y + h), color, 2)
-                crop_img = snap[y:y+h,x:x+w]
-                cv2.imwrite(f'images/{i}.png',crop_img)
+                if label == 'car':
+                    crop_img = snap[y:y+h,x:x+w]
+                    cv2.imwrite(f'images/{i}.png',crop_img)
                 cv2.putText(snap, label, (x, y - 5), font, 2, color, 2)
         return snap
 
