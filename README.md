@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 2. First, you should download the YOLOv3 weights
 ``` bash
-## you can run this command on terminal for (unix OS) 
+## you can run this command on terminal for  (unix OS) 
 wget https://pjreddie.com/media/files/yolov3.weights
 ```
 or download the weights from [**Here**](https://pjreddie.com/media/files/yolov3.weights) for (Windows OS)
